@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Assam map collection</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+*{box-sizing:border-box}body{margin:0;font:16px system-ui,sans-serif;color:#12362d;background:#eff5f1}header{padding:18px 24px;background:#133e31;color:white}header a{color:#dcf4c7}h1{margin:4px 0;font-size:24px}header p{margin:8px 0;font-size:14px}main{display:grid;grid-template-columns:minmax(260px,350px) 1fr;height:calc(100dvh - 150px);min-height:500px}aside{padding:18px;overflow:auto}label{display:block;font-weight:600;margin:12px 0 6px}select,input,button{width:100%;padding:10px;border:1px solid #abc4b3;border-radius:6px;background:white;font:inherit}button{background:#175a43;color:white;cursor:pointer;margin:14px 0}#map{min-height:400px}#details p{font-size:14px;overflow-wrap:anywhere}#downloads a{display:inline-block;margin:5px;padding:7px;background:white;border-radius:5px;color:#175a43}.leaflet-popup-content{max-height:240px;overflow:auto}.status{min-height:40px;font-size:14px}a{color:#175a43}@media(max-width:700px){main{display:flex;flex-direction:column;height:auto}aside{overflow:visible}#map{height:60dvh}header{padding:14px}}
+</style>
+</head>
+<body>
+<header><a href="../assam/">District &amp; village portal</a><h1>Assam map collection</h1><p>Explore supplied maps and download GIS exports. Includes regional and India reference layers.</p></header>
+<main><aside>
+<label for="theme">Theme</label><select id="theme"><option value="">All themes</option></select>
+<label for="dataset">Dataset</label><select id="dataset"></select>
+<div id="details"></div><div id="downloads"></div>
+<button id="load" disabled>Show on map</button><p id="status" class="status" role="status" aria-live="polite">Loading catalog…</p>
+<p><a href="../catalog/README.md">Full catalog</a> · <a href="../docs/COLLECTION_PLAN.md">Collection plan</a></p>
+<p>Source dates, accuracy, and reuse rights are unverified. Boundaries may be historical. Overlapping collection files can contain the same features.</p>
+</aside><div id="map" aria-label="Map preview"></div></main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="collection.js"></script>
+</body></html>

@@ -1,0 +1,2564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Indian Cities</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>india_cities</name>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 1<br>city: Agra<br>state: Uttar Pradesh<br>lat: 27.172187<br>lon: 78.007819]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>1</value>
+          </Data>
+          <Data name="city">
+            <value>Agra</value>
+          </Data>
+          <Data name="state">
+            <value>Uttar Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>27.172187</value>
+          </Data>
+          <Data name="lon">
+            <value>78.007819</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.007819,27.172187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 2<br>city: Ahmedabad<br>state: Gujarat<br>lat: 23.022868<br>lon: 72.572522]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>2</value>
+          </Data>
+          <Data name="city">
+            <value>Ahmedabad</value>
+          </Data>
+          <Data name="state">
+            <value>Gujarat</value>
+          </Data>
+          <Data name="lat">
+            <value>23.022868</value>
+          </Data>
+          <Data name="lon">
+            <value>72.572522</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.572522,23.022868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 3<br>city: Allahabad<br>state: Uttar Pradesh<br>lat: 25.433826<br>lon: 81.846377]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>3</value>
+          </Data>
+          <Data name="city">
+            <value>Allahabad</value>
+          </Data>
+          <Data name="state">
+            <value>Uttar Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>25.433826</value>
+          </Data>
+          <Data name="lon">
+            <value>81.846377</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            81.846377,25.433826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 4<br>city: Amritsar<br>state: Punjab<br>lat: 31.63294<br>lon: 74.872693]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>4</value>
+          </Data>
+          <Data name="city">
+            <value>Amritsar</value>
+          </Data>
+          <Data name="state">
+            <value>Punjab</value>
+          </Data>
+          <Data name="lat">
+            <value>31.63294</value>
+          </Data>
+          <Data name="lon">
+            <value>74.872693</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.872693,31.63294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 5<br>city: Asansol<br>state: West Bengal<br>lat: 23.677213<br>lon: 86.950671]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>5</value>
+          </Data>
+          <Data name="city">
+            <value>Asansol</value>
+          </Data>
+          <Data name="state">
+            <value>West Bengal</value>
+          </Data>
+          <Data name="lat">
+            <value>23.677213</value>
+          </Data>
+          <Data name="lon">
+            <value>86.950671</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            86.950671,23.677213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 6<br>city: Aurangabad<br>state: Maharashtra<br>lat: 19.872343<br>lon: 75.339874]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>6</value>
+          </Data>
+          <Data name="city">
+            <value>Aurangabad</value>
+          </Data>
+          <Data name="state">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="lat">
+            <value>19.872343</value>
+          </Data>
+          <Data name="lon">
+            <value>75.339874</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.339874,19.872343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 7<br>city: Bangalore<br>state: Karnataka<br>lat: 12.96199<br>lon: 77.590416]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>7</value>
+          </Data>
+          <Data name="city">
+            <value>Bangalore</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>12.96199</value>
+          </Data>
+          <Data name="lon">
+            <value>77.590416</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.590416,12.96199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 8<br>city: Bhopal<br>state: Madhya Pradesh<br>lat: 23.25109<br>lon: 77.40794]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>8</value>
+          </Data>
+          <Data name="city">
+            <value>Bhopal</value>
+          </Data>
+          <Data name="state">
+            <value>Madhya Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>23.25109</value>
+          </Data>
+          <Data name="lon">
+            <value>77.40794</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.40794,23.25109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 9<br>city: Chennai<br>state: Tamil Nadu<br>lat: 13.074278<br>lon: 80.272171]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>9</value>
+          </Data>
+          <Data name="city">
+            <value>Chennai</value>
+          </Data>
+          <Data name="state">
+            <value>Tamil Nadu</value>
+          </Data>
+          <Data name="lat">
+            <value>13.074278</value>
+          </Data>
+          <Data name="lon">
+            <value>80.272171</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            80.272171,13.074278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 10<br>city: Coimbatore<br>state: Tamil Nadu<br>lat: 11.012039<br>lon: 76.961396]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>10</value>
+          </Data>
+          <Data name="city">
+            <value>Coimbatore</value>
+          </Data>
+          <Data name="state">
+            <value>Tamil Nadu</value>
+          </Data>
+          <Data name="lat">
+            <value>11.012039</value>
+          </Data>
+          <Data name="lon">
+            <value>76.961396</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.961396,11.012039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 11<br>city: Delhi<br>state: Delhi NCT<br>lat: 28.639446<br>lon: 77.220937]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>11</value>
+          </Data>
+          <Data name="city">
+            <value>Delhi</value>
+          </Data>
+          <Data name="state">
+            <value>Delhi NCT</value>
+          </Data>
+          <Data name="lat">
+            <value>28.639446</value>
+          </Data>
+          <Data name="lon">
+            <value>77.220937</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.220937,28.639446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 12<br>city: Dhanbad<br>state: Jharkhand<br>lat: 23.794038<br>lon: 86.429271]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>12</value>
+          </Data>
+          <Data name="city">
+            <value>Dhanbad</value>
+          </Data>
+          <Data name="state">
+            <value>Jharkhand</value>
+          </Data>
+          <Data name="lat">
+            <value>23.794038</value>
+          </Data>
+          <Data name="lon">
+            <value>86.429271</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            86.429271,23.794038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 13<br>city: Durg-Bhilainagar<br>state: Chhattisgarh<br>lat: 21.188374<br>lon: 81.284878]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>13</value>
+          </Data>
+          <Data name="city">
+            <value>Durg-Bhilainagar</value>
+          </Data>
+          <Data name="state">
+            <value>Chhattisgarh</value>
+          </Data>
+          <Data name="lat">
+            <value>21.188374</value>
+          </Data>
+          <Data name="lon">
+            <value>81.284878</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            81.284878,21.188374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 14<br>city: Faridabad<br>state: Haryana<br>lat: 28.40186<br>lon: 77.312197]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>14</value>
+          </Data>
+          <Data name="city">
+            <value>Faridabad</value>
+          </Data>
+          <Data name="state">
+            <value>Haryana</value>
+          </Data>
+          <Data name="lat">
+            <value>28.40186</value>
+          </Data>
+          <Data name="lon">
+            <value>77.312197</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.312197,28.40186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 15<br>city: Ghaziabad<br>state: Uttar Pradesh<br>lat: 28.662835<br>lon: 77.42729]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>15</value>
+          </Data>
+          <Data name="city">
+            <value>Ghaziabad</value>
+          </Data>
+          <Data name="state">
+            <value>Uttar Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>28.662835</value>
+          </Data>
+          <Data name="lon">
+            <value>77.42729</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.42729,28.662835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 16<br>city: Gwalior<br>state: Madhya Pradesh<br>lat: 26.211624<br>lon: 78.182648]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>16</value>
+          </Data>
+          <Data name="city">
+            <value>Gwalior</value>
+          </Data>
+          <Data name="state">
+            <value>Madhya Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>26.211624</value>
+          </Data>
+          <Data name="lon">
+            <value>78.182648</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.182648,26.211624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 17<br>city: Hyderabad<br>state: Telangana<br>lat: 17.374951<br>lon: 78.477385]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>17</value>
+          </Data>
+          <Data name="city">
+            <value>Hyderabad</value>
+          </Data>
+          <Data name="state">
+            <value>Telangana</value>
+          </Data>
+          <Data name="lat">
+            <value>17.374951</value>
+          </Data>
+          <Data name="lon">
+            <value>78.477385</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.477385,17.374951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 18<br>city: Indore<br>state: Madhya Pradesh<br>lat: 22.718449<br>lon: 75.858002]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>18</value>
+          </Data>
+          <Data name="city">
+            <value>Indore</value>
+          </Data>
+          <Data name="state">
+            <value>Madhya Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>22.718449</value>
+          </Data>
+          <Data name="lon">
+            <value>75.858002</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.858002,22.718449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 19<br>city: Jabalpur<br>state: Madhya Pradesh<br>lat: 23.178205<br>lon: 79.982483]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>19</value>
+          </Data>
+          <Data name="city">
+            <value>Jabalpur</value>
+          </Data>
+          <Data name="state">
+            <value>Madhya Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>23.178205</value>
+          </Data>
+          <Data name="lon">
+            <value>79.982483</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            79.982483,23.178205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 20<br>city: Jaipur<br>state: Rajasthan<br>lat: 26.904738<br>lon: 75.786427]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>20</value>
+          </Data>
+          <Data name="city">
+            <value>Jaipur</value>
+          </Data>
+          <Data name="state">
+            <value>Rajasthan</value>
+          </Data>
+          <Data name="lat">
+            <value>26.904738</value>
+          </Data>
+          <Data name="lon">
+            <value>75.786427</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.786427,26.904738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 21<br>city: Jamshedpur<br>state: Jharkhand<br>lat: 22.801421<br>lon: 86.201861]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>21</value>
+          </Data>
+          <Data name="city">
+            <value>Jamshedpur</value>
+          </Data>
+          <Data name="state">
+            <value>Jharkhand</value>
+          </Data>
+          <Data name="lat">
+            <value>22.801421</value>
+          </Data>
+          <Data name="lon">
+            <value>86.201861</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            86.201861,22.801421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 22<br>city: Jodhpur<br>state: Rajasthan<br>lat: 26.242625<br>lon: 73.025391]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>22</value>
+          </Data>
+          <Data name="city">
+            <value>Jodhpur</value>
+          </Data>
+          <Data name="state">
+            <value>Rajasthan</value>
+          </Data>
+          <Data name="lat">
+            <value>26.242625</value>
+          </Data>
+          <Data name="lon">
+            <value>73.025391</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.025391,26.242625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 23<br>city: Kannur<br>state: Kerala<br>lat: 11.872917<br>lon: 75.370619]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>23</value>
+          </Data>
+          <Data name="city">
+            <value>Kannur</value>
+          </Data>
+          <Data name="state">
+            <value>Kerala</value>
+          </Data>
+          <Data name="lat">
+            <value>11.872917</value>
+          </Data>
+          <Data name="lon">
+            <value>75.370619</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.370619,11.872917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 24<br>city: Kanpur<br>state: Uttar Pradesh<br>lat: 26.445005<br>lon: 80.331857]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>24</value>
+          </Data>
+          <Data name="city">
+            <value>Kanpur</value>
+          </Data>
+          <Data name="state">
+            <value>Uttar Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>26.445005</value>
+          </Data>
+          <Data name="lon">
+            <value>80.331857</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            80.331857,26.445005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 25<br>city: Kochi<br>state: Kerala<br>lat: 9.921673<br>lon: 76.26549]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>25</value>
+          </Data>
+          <Data name="city">
+            <value>Kochi</value>
+          </Data>
+          <Data name="state">
+            <value>Kerala</value>
+          </Data>
+          <Data name="lat">
+            <value>9.921673</value>
+          </Data>
+          <Data name="lon">
+            <value>76.26549</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.26549,9.921673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 26<br>city: Kolkata<br>state: West Bengal<br>lat: 22.572646<br>lon: 88.363895]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>26</value>
+          </Data>
+          <Data name="city">
+            <value>Kolkata</value>
+          </Data>
+          <Data name="state">
+            <value>West Bengal</value>
+          </Data>
+          <Data name="lat">
+            <value>22.572646</value>
+          </Data>
+          <Data name="lon">
+            <value>88.363895</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            88.363895,22.572646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 27<br>city: Kollam<br>state: Kerala<br>lat: 8.885084<br>lon: 76.593752]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>27</value>
+          </Data>
+          <Data name="city">
+            <value>Kollam</value>
+          </Data>
+          <Data name="state">
+            <value>Kerala</value>
+          </Data>
+          <Data name="lat">
+            <value>8.885084</value>
+          </Data>
+          <Data name="lon">
+            <value>76.593752</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.593752,8.885084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 28<br>city: Kozhikode<br>state: Kerala<br>lat: 11.251761<br>lon: 75.783335]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>28</value>
+          </Data>
+          <Data name="city">
+            <value>Kozhikode</value>
+          </Data>
+          <Data name="state">
+            <value>Kerala</value>
+          </Data>
+          <Data name="lat">
+            <value>11.251761</value>
+          </Data>
+          <Data name="lon">
+            <value>75.783335</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.783335,11.251761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 29<br>city: Lucknow<br>state: Uttar Pradesh<br>lat: 26.838821<br>lon: 80.942501]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>29</value>
+          </Data>
+          <Data name="city">
+            <value>Lucknow</value>
+          </Data>
+          <Data name="state">
+            <value>Uttar Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>26.838821</value>
+          </Data>
+          <Data name="lon">
+            <value>80.942501</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            80.942501,26.838821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 30<br>city: Ludhiana<br>state: Punjab<br>lat: 30.897086<br>lon: 75.857357]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>30</value>
+          </Data>
+          <Data name="city">
+            <value>Ludhiana</value>
+          </Data>
+          <Data name="state">
+            <value>Punjab</value>
+          </Data>
+          <Data name="lat">
+            <value>30.897086</value>
+          </Data>
+          <Data name="lon">
+            <value>75.857357</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.857357,30.897086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 31<br>city: Madurai<br>state: Tamil Nadu<br>lat: 9.92102<br>lon: 78.12179]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>31</value>
+          </Data>
+          <Data name="city">
+            <value>Madurai</value>
+          </Data>
+          <Data name="state">
+            <value>Tamil Nadu</value>
+          </Data>
+          <Data name="lat">
+            <value>9.92102</value>
+          </Data>
+          <Data name="lon">
+            <value>78.12179</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.12179,9.92102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 32<br>city: Malappuram<br>state: Kerala<br>lat: 11.070957<br>lon: 76.074571]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>32</value>
+          </Data>
+          <Data name="city">
+            <value>Malappuram</value>
+          </Data>
+          <Data name="state">
+            <value>Kerala</value>
+          </Data>
+          <Data name="lat">
+            <value>11.070957</value>
+          </Data>
+          <Data name="lon">
+            <value>76.074571</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.074571,11.070957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 33<br>city: Meerut<br>state: Uttar Pradesh<br>lat: 28.981238<br>lon: 77.701017]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>33</value>
+          </Data>
+          <Data name="city">
+            <value>Meerut</value>
+          </Data>
+          <Data name="state">
+            <value>Uttar Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>28.981238</value>
+          </Data>
+          <Data name="lon">
+            <value>77.701017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.701017,28.981238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 34<br>city: Mumbai<br>state: Maharashtra<br>lat: 19.068493<br>lon: 72.880505]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>34</value>
+          </Data>
+          <Data name="city">
+            <value>Mumbai</value>
+          </Data>
+          <Data name="state">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="lat">
+            <value>19.068493</value>
+          </Data>
+          <Data name="lon">
+            <value>72.880505</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.880505,19.068493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 35<br>city: Nagpur<br>state: Maharashtra<br>lat: 21.153984<br>lon: 79.084171]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>35</value>
+          </Data>
+          <Data name="city">
+            <value>Nagpur</value>
+          </Data>
+          <Data name="state">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="lat">
+            <value>21.153984</value>
+          </Data>
+          <Data name="lon">
+            <value>79.084171</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            79.084171,21.153984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 36<br>city: Nashik<br>state: Maharasthra<br>lat: 19.9975<br>lon: 73.7898]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>36</value>
+          </Data>
+          <Data name="city">
+            <value>Nashik</value>
+          </Data>
+          <Data name="state">
+            <value>Maharasthra</value>
+          </Data>
+          <Data name="lat">
+            <value>19.9975</value>
+          </Data>
+          <Data name="lon">
+            <value>73.7898</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.7898,19.9975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 37<br>city: Patna<br>state: Bihar<br>lat: 25.598287<br>lon: 85.135144]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>37</value>
+          </Data>
+          <Data name="city">
+            <value>Patna</value>
+          </Data>
+          <Data name="state">
+            <value>Bihar</value>
+          </Data>
+          <Data name="lat">
+            <value>25.598287</value>
+          </Data>
+          <Data name="lon">
+            <value>85.135144</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.135144,25.598287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 38<br>city: Pune<br>state: Maharasthra<br>lat: 18.521716<br>lon: 73.857118]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>38</value>
+          </Data>
+          <Data name="city">
+            <value>Pune</value>
+          </Data>
+          <Data name="state">
+            <value>Maharasthra</value>
+          </Data>
+          <Data name="lat">
+            <value>18.521716</value>
+          </Data>
+          <Data name="lon">
+            <value>73.857118</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.857118,18.521716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 39<br>city: Raipur<br>state: Chhattisgarh<br>lat: 21.253172<br>lon: 81.629198]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>39</value>
+          </Data>
+          <Data name="city">
+            <value>Raipur</value>
+          </Data>
+          <Data name="state">
+            <value>Chhattisgarh</value>
+          </Data>
+          <Data name="lat">
+            <value>21.253172</value>
+          </Data>
+          <Data name="lon">
+            <value>81.629198</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            81.629198,21.253172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 40<br>city: Rajkot<br>state: Gujarat<br>lat: 22.303894<br>lon: 70.80216]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>40</value>
+          </Data>
+          <Data name="city">
+            <value>Rajkot</value>
+          </Data>
+          <Data name="state">
+            <value>Gujarat</value>
+          </Data>
+          <Data name="lat">
+            <value>22.303894</value>
+          </Data>
+          <Data name="lon">
+            <value>70.80216</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            70.80216,22.303894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 41<br>city: Ranchi<br>state: Jharkhand<br>lat: 23.351338<br>lon: 85.307581]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>41</value>
+          </Data>
+          <Data name="city">
+            <value>Ranchi</value>
+          </Data>
+          <Data name="state">
+            <value>Jharkhand</value>
+          </Data>
+          <Data name="lat">
+            <value>23.351338</value>
+          </Data>
+          <Data name="lon">
+            <value>85.307581</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.307581,23.351338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 42<br>city: Srinagar<br>state: Jammu &amp; Kashmir<br>lat: 34.09015<br>lon: 74.799191]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>42</value>
+          </Data>
+          <Data name="city">
+            <value>Srinagar</value>
+          </Data>
+          <Data name="state">
+            <value><![CDATA[Jammu &amp; Kashmir]]></value>
+          </Data>
+          <Data name="lat">
+            <value>34.09015</value>
+          </Data>
+          <Data name="lon">
+            <value>74.799191</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.799191,34.09015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 43<br>city: Surat<br>state: Gujarat<br>lat: 21.17024<br>lon: 72.831061]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>43</value>
+          </Data>
+          <Data name="city">
+            <value>Surat</value>
+          </Data>
+          <Data name="state">
+            <value>Gujarat</value>
+          </Data>
+          <Data name="lat">
+            <value>21.17024</value>
+          </Data>
+          <Data name="lon">
+            <value>72.831061</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.831061,21.17024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 44<br>city: Thiruvananthapuram<br>state: Kerala<br>lat: 8.526786<br>lon: 76.938081]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>44</value>
+          </Data>
+          <Data name="city">
+            <value>Thiruvananthapuram</value>
+          </Data>
+          <Data name="state">
+            <value>Kerala</value>
+          </Data>
+          <Data name="lat">
+            <value>8.526786</value>
+          </Data>
+          <Data name="lon">
+            <value>76.938081</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.938081,8.526786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 45<br>city: Thrissur<br>state: Kerala<br>lat: 10.524207<br>lon: 76.215694]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>45</value>
+          </Data>
+          <Data name="city">
+            <value>Thrissur</value>
+          </Data>
+          <Data name="state">
+            <value>Kerala</value>
+          </Data>
+          <Data name="lat">
+            <value>10.524207</value>
+          </Data>
+          <Data name="lon">
+            <value>76.215694</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.215694,10.524207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 46<br>city: Vadodara<br>state: Gujarat<br>lat: 22.307159<br>lon: 73.181219]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>46</value>
+          </Data>
+          <Data name="city">
+            <value>Vadodara</value>
+          </Data>
+          <Data name="state">
+            <value>Gujarat</value>
+          </Data>
+          <Data name="lat">
+            <value>22.307159</value>
+          </Data>
+          <Data name="lon">
+            <value>73.181219</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.181219,22.307159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 47<br>city: Varanasi<br>state: Uttar Pradesh<br>lat: 25.319427<br>lon: 82.973768]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>47</value>
+          </Data>
+          <Data name="city">
+            <value>Varanasi</value>
+          </Data>
+          <Data name="state">
+            <value>Uttar Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>25.319427</value>
+          </Data>
+          <Data name="lon">
+            <value>82.973768</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            82.973768,25.319427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 48<br>city: Vasai-Virar City<br>state: Maharasthra<br>lat: 19.387647<br>lon: 72.839545]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>48</value>
+          </Data>
+          <Data name="city">
+            <value>Vasai-Virar City</value>
+          </Data>
+          <Data name="state">
+            <value>Maharasthra</value>
+          </Data>
+          <Data name="lat">
+            <value>19.387647</value>
+          </Data>
+          <Data name="lon">
+            <value>72.839545</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.839545,19.387647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 49<br>city: Vijayawada<br>state: Andhra Pradesh<br>lat: 16.5062<br>lon: 80.648]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>49</value>
+          </Data>
+          <Data name="city">
+            <value>Vijayawada</value>
+          </Data>
+          <Data name="state">
+            <value>Andhra Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>16.5062</value>
+          </Data>
+          <Data name="lon">
+            <value>80.648</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            80.648,16.5062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 50<br>city: Visakhapatnam<br>state: Andhra Pradesh<br>lat: 17.675749<br>lon: 83.250835]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>50</value>
+          </Data>
+          <Data name="city">
+            <value>Visakhapatnam</value>
+          </Data>
+          <Data name="state">
+            <value>Andhra Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>17.675749</value>
+          </Data>
+          <Data name="lon">
+            <value>83.250835</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            83.250835,17.675749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 51<br>city: Thanjavur<br>state: Tamil Nadu<br>lat: 10.786999<br>lon: 79.137827]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>51</value>
+          </Data>
+          <Data name="city">
+            <value>Thanjavur</value>
+          </Data>
+          <Data name="state">
+            <value>Tamil Nadu</value>
+          </Data>
+          <Data name="lat">
+            <value>10.786999</value>
+          </Data>
+          <Data name="lon">
+            <value>79.137827</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            79.137827,10.786999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 52<br>city: Kasargod<br>state: Kerala<br>lat: 12.43867<br>lon: 75.201229]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>52</value>
+          </Data>
+          <Data name="city">
+            <value>Kasargod</value>
+          </Data>
+          <Data name="state">
+            <value>Kerala</value>
+          </Data>
+          <Data name="lat">
+            <value>12.43867</value>
+          </Data>
+          <Data name="lon">
+            <value>75.201229</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.201229,12.43867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 53<br>city: Bhubaneswar<br>state: Orissa<br>lat: 20.296059<br>lon: 85.82454]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>53</value>
+          </Data>
+          <Data name="city">
+            <value>Bhubaneswar</value>
+          </Data>
+          <Data name="state">
+            <value>Orissa</value>
+          </Data>
+          <Data name="lat">
+            <value>20.296059</value>
+          </Data>
+          <Data name="lon">
+            <value>85.82454</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            85.82454,20.296059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 54<br>city: Salem<br>state: Tamil Nadu<br>lat: 11.664325<br>lon: 78.146014]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>54</value>
+          </Data>
+          <Data name="city">
+            <value>Salem</value>
+          </Data>
+          <Data name="state">
+            <value>Tamil Nadu</value>
+          </Data>
+          <Data name="lat">
+            <value>11.664325</value>
+          </Data>
+          <Data name="lon">
+            <value>78.146014</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.146014,11.664325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 55<br>city: Bhatkal<br>state: Karnataka<br>lat: 13.997762<br>lon: 74.540469]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>55</value>
+          </Data>
+          <Data name="city">
+            <value>Bhatkal</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>13.997762</value>
+          </Data>
+          <Data name="lon">
+            <value>74.540469</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.540469,13.997762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 56<br>city: Chikkamagaluru<br>state: Karnataka<br>lat: 13.404507<br>lon: 75.620809]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>56</value>
+          </Data>
+          <Data name="city">
+            <value>Chikkamagaluru</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>13.404507</value>
+          </Data>
+          <Data name="lon">
+            <value>75.620809</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.620809,13.404507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 57<br>city: Sambalpur<br>state: Orissa<br>lat: 21.466872<br>lon: 83.981166]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>57</value>
+          </Data>
+          <Data name="city">
+            <value>Sambalpur</value>
+          </Data>
+          <Data name="state">
+            <value>Orissa</value>
+          </Data>
+          <Data name="lat">
+            <value>21.466872</value>
+          </Data>
+          <Data name="lon">
+            <value>83.981166</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            83.981166,21.466872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 58<br>city: Bailur, Udupi<br>state: Karnataka<br>lat: 13.282641<br>lon: 74.925992]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>58</value>
+          </Data>
+          <Data name="city">
+            <value>Bailur, Udupi</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>13.282641</value>
+          </Data>
+          <Data name="lon">
+            <value>74.925992</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.925992,13.282641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 59<br>city: Kodagu<br>state: Karnataka<br>lat: 12.337494<br>lon: 75.806908]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>59</value>
+          </Data>
+          <Data name="city">
+            <value>Kodagu</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>12.337494</value>
+          </Data>
+          <Data name="lon">
+            <value>75.806908</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.806908,12.337494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 60<br>city: Alwar<br>state: Rajasthan<br>lat: 27.552991<br>lon: 76.634573]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>60</value>
+          </Data>
+          <Data name="city">
+            <value>Alwar</value>
+          </Data>
+          <Data name="state">
+            <value>Rajasthan</value>
+          </Data>
+          <Data name="lat">
+            <value>27.552991</value>
+          </Data>
+          <Data name="lon">
+            <value>76.634573</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.634573,27.552991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 61<br>city: Pavagada<br>state: Karnataka<br>lat: 14.1031<br>lon: 77.280742]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>61</value>
+          </Data>
+          <Data name="city">
+            <value>Pavagada</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>14.1031</value>
+          </Data>
+          <Data name="lon">
+            <value>77.280742</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.280742,14.1031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 62<br>city: Burdwan<br>state: West Bengal<br>lat: 23.232421<br>lon: 87.861479]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>62</value>
+          </Data>
+          <Data name="city">
+            <value>Burdwan</value>
+          </Data>
+          <Data name="state">
+            <value>West Bengal</value>
+          </Data>
+          <Data name="lat">
+            <value>23.232421</value>
+          </Data>
+          <Data name="lon">
+            <value>87.861479</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            87.861479,23.232421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 63<br>city: Moreh<br>state: Manipur<br>lat: 24.251281<br>lon: 94.301304]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>63</value>
+          </Data>
+          <Data name="city">
+            <value>Moreh</value>
+          </Data>
+          <Data name="state">
+            <value>Manipur</value>
+          </Data>
+          <Data name="lat">
+            <value>24.251281</value>
+          </Data>
+          <Data name="lon">
+            <value>94.301304</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            94.301304,24.251281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 64<br>city: Porvorim and Ponda<br>state: Goa<br>lat: 15.537727<br>lon: 73.831614]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>64</value>
+          </Data>
+          <Data name="city">
+            <value>Porvorim and Ponda</value>
+          </Data>
+          <Data name="state">
+            <value>Goa</value>
+          </Data>
+          <Data name="lat">
+            <value>15.537727</value>
+          </Data>
+          <Data name="lon">
+            <value>73.831614</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.831614,15.537727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 65<br>city: Kolar<br>state: Karnataka<br>lat: 13.135745<br>lon: 78.132561]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>65</value>
+          </Data>
+          <Data name="city">
+            <value>Kolar</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>13.135745</value>
+          </Data>
+          <Data name="lon">
+            <value>78.132561</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.132561,13.135745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 66<br>city: Belagavi<br>state: Karnataka<br>lat: 15.849695<br>lon: 74.497674]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>66</value>
+          </Data>
+          <Data name="city">
+            <value>Belagavi</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>15.849695</value>
+          </Data>
+          <Data name="lon">
+            <value>74.497674</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.497674,15.849695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 67<br>city: Hoshangabad<br>state: Madhya Pradesh<br>lat: 22.744108<br>lon: 77.736967]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>67</value>
+          </Data>
+          <Data name="city">
+            <value>Hoshangabad</value>
+          </Data>
+          <Data name="state">
+            <value>Madhya Pradesh</value>
+          </Data>
+          <Data name="lat">
+            <value>22.744108</value>
+          </Data>
+          <Data name="lon">
+            <value>77.736967</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.736967,22.744108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 68<br>city: Kalburgi<br>state: Karnataka<br>lat: 17.314739<br>lon: 76.824343]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>68</value>
+          </Data>
+          <Data name="city">
+            <value>Kalburgi</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>17.314739</value>
+          </Data>
+          <Data name="lon">
+            <value>76.824343</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.824343,17.314739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 69<br>city: Raichur<br>state: Karnataka<br>lat: 16.212003<br>lon: 77.343928]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>69</value>
+          </Data>
+          <Data name="city">
+            <value>Raichur</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>16.212003</value>
+          </Data>
+          <Data name="lon">
+            <value>77.343928</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.343928,16.212003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 70<br>city: Porbandar<br>state: Gujarat<br>lat: 21.641707<br>lon: 69.629265]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>70</value>
+          </Data>
+          <Data name="city">
+            <value>Porbandar</value>
+          </Data>
+          <Data name="state">
+            <value>Gujarat</value>
+          </Data>
+          <Data name="lat">
+            <value>21.641707</value>
+          </Data>
+          <Data name="lon">
+            <value>69.629265</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            69.629265,21.641707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 71<br>city: Chitradurga<br>state: Karnataka<br>lat: 14.230559<br>lon: 76.398454]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>71</value>
+          </Data>
+          <Data name="city">
+            <value>Chitradurga</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>14.230559</value>
+          </Data>
+          <Data name="lon">
+            <value>76.398454</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.398454,14.230559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 72<br>city: Faridabad<br>state: Haryana<br>lat: 28.408912<br>lon: 77.317789]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>72</value>
+          </Data>
+          <Data name="city">
+            <value>Faridabad</value>
+          </Data>
+          <Data name="state">
+            <value>Haryana</value>
+          </Data>
+          <Data name="lat">
+            <value>28.408912</value>
+          </Data>
+          <Data name="lon">
+            <value>77.317789</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.317789,28.408912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 73<br>city: Dadar, Mumbai<br>state: Maharashtra<br>lat: 19.021324<br>lon: 72.842418]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>73</value>
+          </Data>
+          <Data name="city">
+            <value>Dadar, Mumbai</value>
+          </Data>
+          <Data name="state">
+            <value>Maharashtra</value>
+          </Data>
+          <Data name="lat">
+            <value>19.021324</value>
+          </Data>
+          <Data name="lon">
+            <value>72.842418</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.842418,19.021324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 74<br>city: Gurugram<br>state: Haryana<br>lat: 28.459497<br>lon: 77.026638]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>74</value>
+          </Data>
+          <Data name="city">
+            <value>Gurugram</value>
+          </Data>
+          <Data name="state">
+            <value>Haryana</value>
+          </Data>
+          <Data name="lat">
+            <value>28.459497</value>
+          </Data>
+          <Data name="lon">
+            <value>77.026638</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            77.026638,28.459497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 75<br>city: Vellore<br>state: Tamil Nadu<br>lat: 12.916517<br>lon: 79.132499]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>75</value>
+          </Data>
+          <Data name="city">
+            <value>Vellore</value>
+          </Data>
+          <Data name="state">
+            <value>Tamil Nadu</value>
+          </Data>
+          <Data name="lat">
+            <value>12.916517</value>
+          </Data>
+          <Data name="lon">
+            <value>79.132499</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            79.132499,12.916517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 76<br>city: Guwahati<br>state: Assam<br>lat: 26.144517<br>lon: 91.736237]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>76</value>
+          </Data>
+          <Data name="city">
+            <value>Guwahati</value>
+          </Data>
+          <Data name="state">
+            <value>Assam</value>
+          </Data>
+          <Data name="lat">
+            <value>26.144517</value>
+          </Data>
+          <Data name="lon">
+            <value>91.736237</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            91.736237,26.144517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 77<br>city: Kothur<br>state: Telangana<br>lat: 17.147351<br>lon: 78.2889]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>77</value>
+          </Data>
+          <Data name="city">
+            <value>Kothur</value>
+          </Data>
+          <Data name="state">
+            <value>Telangana</value>
+          </Data>
+          <Data name="lat">
+            <value>17.147351</value>
+          </Data>
+          <Data name="lon">
+            <value>78.2889</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.2889,17.147351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 78<br>city: Bikaner<br>state: Rajasthan<br>lat: 28.022935<br>lon: 73.311916]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>78</value>
+          </Data>
+          <Data name="city">
+            <value>Bikaner</value>
+          </Data>
+          <Data name="state">
+            <value>Rajasthan</value>
+          </Data>
+          <Data name="lat">
+            <value>28.022935</value>
+          </Data>
+          <Data name="lon">
+            <value>73.311916</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.311916,28.022935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 79<br>city: Bhilwara<br>state: Rajasthan<br>lat: 25.321377<br>lon: 74.586953]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>79</value>
+          </Data>
+          <Data name="city">
+            <value>Bhilwara</value>
+          </Data>
+          <Data name="state">
+            <value>Rajasthan</value>
+          </Data>
+          <Data name="lat">
+            <value>25.321377</value>
+          </Data>
+          <Data name="lon">
+            <value>74.586953</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.586953,25.321377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 80<br>city: Mysuru<br>state: Karnataka<br>lat: 12.29581<br>lon: 76.639381]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>80</value>
+          </Data>
+          <Data name="city">
+            <value>Mysuru</value>
+          </Data>
+          <Data name="state">
+            <value>Karnataka</value>
+          </Data>
+          <Data name="lat">
+            <value>12.29581</value>
+          </Data>
+          <Data name="lon">
+            <value>76.639381</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.639381,12.29581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 81<br>city: Ramayampet<br>state: Telangana<br>lat: 18.115851<br>lon: 78.432562]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>81</value>
+          </Data>
+          <Data name="city">
+            <value>Ramayampet</value>
+          </Data>
+          <Data name="state">
+            <value>Telangana</value>
+          </Data>
+          <Data name="lat">
+            <value>18.115851</value>
+          </Data>
+          <Data name="lon">
+            <value>78.432562</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            78.432562,18.115851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 82<br>city: Bharuch<br>state: Gujarat<br>lat: 21.705136<br>lon: 72.995875]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>82</value>
+          </Data>
+          <Data name="city">
+            <value>Bharuch</value>
+          </Data>
+          <Data name="state">
+            <value>Gujarat</value>
+          </Data>
+          <Data name="lat">
+            <value>21.705136</value>
+          </Data>
+          <Data name="lon">
+            <value>72.995875</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.995875,21.705136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 83<br>city: Hathigaon<br>state: Assam<br>lat: 26.133861<br>lon: 91.780662]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>83</value>
+          </Data>
+          <Data name="city">
+            <value>Hathigaon</value>
+          </Data>
+          <Data name="state">
+            <value>Assam</value>
+          </Data>
+          <Data name="lat">
+            <value>26.133861</value>
+          </Data>
+          <Data name="lon">
+            <value>91.780662</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            91.780662,26.133861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>cartodb_id: 84<br>city: Rudrapur<br>state: Uttarakhand<br>lat: 28.987508<br>lon: 79.414121]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="cartodb_id">
+            <value>84</value>
+          </Data>
+          <Data name="city">
+            <value>Rudrapur</value>
+          </Data>
+          <Data name="state">
+            <value>Uttarakhand</value>
+          </Data>
+          <Data name="lat">
+            <value>28.987508</value>
+          </Data>
+          <Data name="lon">
+            <value>79.414121</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            79.414121,28.987508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

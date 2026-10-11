@@ -1,0 +1,397 @@
+[
+  {
+    "id": "assam-districts",
+    "title": "Assam district boundaries",
+    "theme": "boundaries",
+    "scope": "assam",
+    "original_filename": "Assam Districts.kmz",
+    "raw_path": "data/raw/boundaries/assam-districts.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "ffe6146b26914410af42d42432170bdb133c8125887858832d05be91b5d059ab",
+    "raw_bytes": 742050,
+    "feature_count": 33,
+    "geometry_types": {
+      "GeometryCollection": 5,
+      "Polygon": 28
+    },
+    "bbox": [
+      89.6986,
+      23.76264,
+      96.01788,
+      27.97148
+    ],
+    "formats": {
+      "original": "data/raw/boundaries/assam-districts.kmz",
+      "kml": "data/derived/boundaries/assam-districts/map.kml",
+      "geojson": "data/derived/boundaries/assam-districts/map.geojson",
+      "csv": "data/derived/boundaries/assam-districts/features.csv"
+    }
+  },
+  {
+    "id": "districts-and-rivers",
+    "title": "Districts and rivers — combined map",
+    "theme": "mixed",
+    "scope": "regional",
+    "original_filename": "Dist + Rivers.kmz",
+    "raw_path": "data/raw/mixed/districts-and-rivers.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "c815227114965123cd7b63ae6be4f85d789232a77095a64a77407fc8e3a7c1ec",
+    "raw_bytes": 1597564,
+    "feature_count": 132,
+    "geometry_types": {
+      "LineString": 43,
+      "GeometryCollection": 10,
+      "Polygon": 56,
+      "Point": 23
+    },
+    "bbox": [
+      89.636499,
+      22.219878,
+      97.037694,
+      29.188487
+    ],
+    "formats": {
+      "original": "data/raw/mixed/districts-and-rivers.kmz",
+      "kml": "data/derived/mixed/districts-and-rivers/map.kml",
+      "geojson": "data/derived/mixed/districts-and-rivers/map.geojson",
+      "csv": "data/derived/mixed/districts-and-rivers/features.csv"
+    }
+  },
+  {
+    "id": "india-cities",
+    "title": "India cities",
+    "theme": "settlements",
+    "scope": "india",
+    "original_filename": "Indian Cities.kmz",
+    "raw_path": "data/raw/settlements/india-cities.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "89029729473ae2ed8af24b268e628b541709e81ca3800e2c83e50f9e540d65bc",
+    "raw_bytes": 6567,
+    "feature_count": 84,
+    "geometry_types": {
+      "Point": 84
+    },
+    "bbox": [
+      69.629265,
+      8.526786,
+      94.301304,
+      34.09015
+    ],
+    "formats": {
+      "original": "data/raw/settlements/india-cities.kmz",
+      "kml": "data/derived/settlements/india-cities/map.kml",
+      "geojson": "data/derived/settlements/india-cities/map.geojson",
+      "csv": "data/derived/settlements/india-cities/features.csv"
+    }
+  },
+  {
+    "id": "india-districts",
+    "title": "India district boundaries",
+    "theme": "boundaries",
+    "scope": "india",
+    "original_filename": "Indian Districts.kmz",
+    "raw_path": "data/raw/boundaries/india-districts.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "1ebf10d5e01937b10b4fd9c8ff4aab05df73d08f5df16087d4534bbd7be5ece8",
+    "raw_bytes": 303451,
+    "feature_count": 643,
+    "geometry_types": {
+      "Polygon": 617,
+      "GeometryCollection": 24,
+      "LineString": 2
+    },
+    "bbox": [
+      68.194579,
+      6.757034,
+      97.398734,
+      37.077615
+    ],
+    "formats": {
+      "original": "data/raw/boundaries/india-districts.kmz",
+      "kml": "data/derived/boundaries/india-districts/map.kml",
+      "geojson": "data/derived/boundaries/india-districts/map.geojson",
+      "csv": "data/derived/boundaries/india-districts/features.csv"
+    }
+  },
+  {
+    "id": "jamuguri-villages",
+    "title": "Jamuguri village boundaries",
+    "theme": "settlements",
+    "scope": "local",
+    "original_filename": "Jamuguri Villages.kml",
+    "raw_path": "data/raw/settlements/jamuguri-villages.kml",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "d19369185d4df84b4f59c462e986742547b9910e6cc725057edb91aa499de5b3",
+    "raw_bytes": 479865,
+    "feature_count": 178,
+    "geometry_types": {
+      "GeometryCollection": 178
+    },
+    "bbox": [
+      92.859,
+      26.577,
+      93.145,
+      26.936
+    ],
+    "formats": {
+      "original": "data/raw/settlements/jamuguri-villages.kml",
+      "kml": "data/derived/settlements/jamuguri-villages/map.kml",
+      "geojson": "data/derived/settlements/jamuguri-villages/map.geojson",
+      "csv": "data/derived/settlements/jamuguri-villages/features.csv"
+    }
+  },
+  {
+    "id": "lok-sabha",
+    "title": "India Lok Sabha constituencies",
+    "theme": "elections",
+    "scope": "india",
+    "original_filename": "Lok sabha.kmz",
+    "raw_path": "data/raw/elections/lok-sabha.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "0c4e43c9777320134c7ccccdd8130299ec970fb673aec745457208b125824af9",
+    "raw_bytes": 331740,
+    "feature_count": 544,
+    "geometry_types": {
+      "GeometryCollection": 27,
+      "Polygon": 516,
+      "LineString": 1
+    },
+    "bbox": [
+      68.192642,
+      6.760913,
+      97.398734,
+      37.077615
+    ],
+    "formats": {
+      "original": "data/raw/elections/lok-sabha.kmz",
+      "kml": "data/derived/elections/lok-sabha/map.kml",
+      "geojson": "data/derived/elections/lok-sabha/map.geojson",
+      "csv": "data/derived/elections/lok-sabha/features.csv"
+    }
+  },
+  {
+    "id": "national-highways",
+    "title": "National highways — regional routes",
+    "theme": "transport",
+    "scope": "regional",
+    "original_filename": "NATIONAL HIGHWAY.kmz",
+    "raw_path": "data/raw/transport/national-highways.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "253786e18bb60d8c661b24c054648aa7949c658998c034b41810794f685997e6",
+    "raw_bytes": 7461,
+    "feature_count": 24,
+    "geometry_types": {
+      "LineString": 8,
+      "Point": 16
+    },
+    "bbox": [
+      89.3429436,
+      22.3152111,
+      96.3591122,
+      27.8231697
+    ],
+    "formats": {
+      "original": "data/raw/transport/national-highways.kmz",
+      "kml": "data/derived/transport/national-highways/map.kml",
+      "geojson": "data/derived/transport/national-highways/map.geojson",
+      "csv": "data/derived/transport/national-highways/features.csv"
+    }
+  },
+  {
+    "id": "assam-temples",
+    "title": "Assam temples",
+    "theme": "heritage",
+    "scope": "assam",
+    "original_filename": "Old temples in assam.kmz",
+    "raw_path": "data/raw/heritage/assam-temples.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "b8960221602a3ea20daca4fc2361be037a1f79fa743b65dc2bc41b518ecd15ab",
+    "raw_bytes": 2340,
+    "feature_count": 25,
+    "geometry_types": {
+      "Point": 25
+    },
+    "bbox": [
+      90.4431618,
+      26.0948741,
+      95.9593947,
+      27.9736072
+    ],
+    "formats": {
+      "original": "data/raw/heritage/assam-temples.kmz",
+      "kml": "data/derived/heritage/assam-temples/map.kml",
+      "geojson": "data/derived/heritage/assam-temples/map.geojson",
+      "csv": "data/derived/heritage/assam-temples/features.csv"
+    }
+  },
+  {
+    "id": "northeast-railways",
+    "title": "Northeast railway routes",
+    "theme": "transport",
+    "scope": "regional",
+    "original_filename": "Railwa (NEF).kmz",
+    "raw_path": "data/raw/transport/northeast-railways.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "5868e6044a6e09565a857fe81a9e0cd4438589c11cd7d6882fdd7bbf233c5e6d",
+    "raw_bytes": 17743,
+    "feature_count": 34,
+    "geometry_types": {
+      "LineString": 34
+    },
+    "bbox": [
+      89.5375937,
+      23.7538487,
+      95.779121,
+      27.8356147
+    ],
+    "formats": {
+      "original": "data/raw/transport/northeast-railways.kmz",
+      "kml": "data/derived/transport/northeast-railways/map.kml",
+      "geojson": "data/derived/transport/northeast-railways/map.geojson",
+      "csv": "data/derived/transport/northeast-railways/features.csv"
+    }
+  },
+  {
+    "id": "rivers",
+    "title": "Rivers — regional network",
+    "theme": "hydrology",
+    "scope": "regional",
+    "original_filename": "Rivers.kmz",
+    "raw_path": "data/raw/hydrology/rivers.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "fe6cf4e9a1ffdcfe50d4eba238620b6f6f5e8f107bad9f399e4ff7f4f4372002",
+    "raw_bytes": 122633,
+    "feature_count": 42,
+    "geometry_types": {
+      "LineString": 42
+    },
+    "bbox": [
+      89.6364994,
+      22.2198782,
+      97.037694,
+      29.1884868
+    ],
+    "formats": {
+      "original": "data/raw/hydrology/rivers.kmz",
+      "kml": "data/derived/hydrology/rivers/map.kml",
+      "geojson": "data/derived/hydrology/rivers/map.geojson",
+      "csv": "data/derived/hydrology/rivers/features.csv"
+    }
+  },
+  {
+    "id": "jamugurihat-travel",
+    "title": "Jamugurihat travel routes",
+    "theme": "travel",
+    "scope": "local",
+    "original_filename": "Travel jamgurihat.kmz",
+    "raw_path": "data/raw/travel/jamugurihat-travel.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "3f181b6f7f110ecb85b1d214fefe8522839d581712cbb0de475c4cf12bdeeb77",
+    "raw_bytes": 47533,
+    "feature_count": 126,
+    "geometry_types": {
+      "LineString": 119,
+      "Point": 7
+    },
+    "bbox": [
+      92.7792374,
+      26.622954,
+      93.11505,
+      26.9332458
+    ],
+    "formats": {
+      "original": "data/raw/travel/jamugurihat-travel.kmz",
+      "kml": "data/derived/travel/jamugurihat-travel/map.kml",
+      "geojson": "data/derived/travel/jamugurihat-travel/map.geojson",
+      "csv": "data/derived/travel/jamugurihat-travel/features.csv"
+    }
+  },
+  {
+    "id": "uronto-apeswari",
+    "title": "Uronto Apeswari — local places and route",
+    "theme": "travel",
+    "scope": "unverified",
+    "original_filename": "Uronto Apeswari.kmz",
+    "raw_path": "data/raw/travel/uronto-apeswari.kmz",
+    "source": "User-supplied local collection",
+    "source_url": null,
+    "license": "unknown",
+    "date_of_data": null,
+    "verification_status": "unverified",
+    "notes": "Scope inferred from filename and content; verify before treating as authoritative.",
+    "sha256": "69ee117e4e092683ac0781f7e87ef4dc9183b4b861f14438284e356716176ed0",
+    "raw_bytes": 2062,
+    "feature_count": 5,
+    "geometry_types": {
+      "Point": 4,
+      "LineString": 1
+    },
+    "bbox": [
+      91.7757916,
+      26.2037158,
+      93.9809427,
+      27.1908807
+    ],
+    "formats": {
+      "original": "data/raw/travel/uronto-apeswari.kmz",
+      "kml": "data/derived/travel/uronto-apeswari/map.kml",
+      "geojson": "data/derived/travel/uronto-apeswari/map.geojson",
+      "csv": "data/derived/travel/uronto-apeswari/features.csv"
+    }
+  }
+]

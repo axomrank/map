@@ -1,0 +1,14 @@
+id,publisher,themes,source_url,access_notes,checked_on,status
+assam-geohub,Government of Assam / Town and Country Planning,urban-planning,https://tcp.assam.gov.in/frontimpotentdata/launch-of-gis-geohub-portal-by-the-department-of-housing-urban-affairs-government,Interactive portal; confirm downloadable products and terms,2026-10-11,discovered-not-downloaded
+bharat-maps-assam,NIC,administration,https://stategisportal.nic.in/stategisportal/Home/State/18,View service; check access and redistribution terms,2026-10-11,discovered-not-downloaded
+asdma-flood,ASDMA,hazards,https://asdma.gov.in/flood_hazard.html,Hazard map resources; confirm map date and rights,2026-10-11,discovered-not-downloaded
+asdma-utilities,ASDMA,public-services,https://www.onlineasdma.assam.gov.in/project_gis_mappimg.html,Project description; locate current product and access terms,2026-10-11,discovered-not-downloaded
+bhuvan,ISRO / NRSC,environment;terrain;imagery,https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/,Product-specific access and reuse terms,2026-10-11,discovered-not-downloaded
+census-assam-2011,"Office of the Registrar General & Census Commissioner, India",administration;historical,https://censusindia.gov.in/nada/index.php/catalog/1369/,2011 administrative map; historical vintage,2026-10-11,discovered-not-downloaded
+census-dchb,"Office of the Registrar General & Census Commissioner, India",settlements;demographics,https://www.censusindia.gov.in/census.website/node/45,District handbooks; preserve census geography and official codes,2026-10-11,discovered-not-downloaded
+census-pca-2011,"Office of the Registrar General & Census Commissioner, India",demographics,https://www.censusindia.gov.in/nada/index.php/catalog/42559,2011 population tables; join by matching official codes/vintage,2026-10-11,discovered-not-downloaded
+eci-delimitation,Election Commission of India,elections,https://www.eci.gov.in/delimitation/,Assam 2023 documents; obtain dated authoritative boundaries,2026-10-11,discovered-not-downloaded
+osm-northeast,Geofabrik / OpenStreetMap contributors,transport;amenities;settlements,https://download.geofabrik.de/asia/india/north-eastern-zone.html,Regional extracts; ODbL attribution/share-alike; dated snapshots; clip explicitly,2026-10-11,discovered-not-downloaded
+soi-online,Survey of India,terrain;topography,https://onlinemaps.surveyofindia.gov.in/,Registration/product access conditions; check reuse terms,2026-10-11,discovered-not-downloaded
+assam-district-sites,Government of Assam / General Administration,administration;local-context,https://gad.assam.gov.in/information-and-services/district-websites,Directory of official district resources,2026-10-11,discovered-not-downloaded
+bhunaksha,NIC Assam,land-records,https://bhunaksha.assam.gov.in/,Interactive parcel portal; terms and personal-data review before bulk collection,2026-10-11,discovered-not-downloaded

@@ -1,0 +1,13 @@
+id,title,theme,scope,feature_count,license,date_of_data,verification_status,raw_path,sha256
+assam-districts,Assam district boundaries,boundaries,assam,33,unknown,,unverified,data/raw/boundaries/assam-districts.kmz,ffe6146b26914410af42d42432170bdb133c8125887858832d05be91b5d059ab
+districts-and-rivers,Districts and rivers — combined map,mixed,regional,132,unknown,,unverified,data/raw/mixed/districts-and-rivers.kmz,c815227114965123cd7b63ae6be4f85d789232a77095a64a77407fc8e3a7c1ec
+india-cities,India cities,settlements,india,84,unknown,,unverified,data/raw/settlements/india-cities.kmz,89029729473ae2ed8af24b268e628b541709e81ca3800e2c83e50f9e540d65bc
+india-districts,India district boundaries,boundaries,india,643,unknown,,unverified,data/raw/boundaries/india-districts.kmz,1ebf10d5e01937b10b4fd9c8ff4aab05df73d08f5df16087d4534bbd7be5ece8
+jamuguri-villages,Jamuguri village boundaries,settlements,local,178,unknown,,unverified,data/raw/settlements/jamuguri-villages.kml,d19369185d4df84b4f59c462e986742547b9910e6cc725057edb91aa499de5b3
+lok-sabha,India Lok Sabha constituencies,elections,india,544,unknown,,unverified,data/raw/elections/lok-sabha.kmz,0c4e43c9777320134c7ccccdd8130299ec970fb673aec745457208b125824af9
+national-highways,National highways — regional routes,transport,regional,24,unknown,,unverified,data/raw/transport/national-highways.kmz,253786e18bb60d8c661b24c054648aa7949c658998c034b41810794f685997e6
+assam-temples,Assam temples,heritage,assam,25,unknown,,unverified,data/raw/heritage/assam-temples.kmz,b8960221602a3ea20daca4fc2361be037a1f79fa743b65dc2bc41b518ecd15ab
+northeast-railways,Northeast railway routes,transport,regional,34,unknown,,unverified,data/raw/transport/northeast-railways.kmz,5868e6044a6e09565a857fe81a9e0cd4438589c11cd7d6882fdd7bbf233c5e6d
+rivers,Rivers — regional network,hydrology,regional,42,unknown,,unverified,data/raw/hydrology/rivers.kmz,fe6cf4e9a1ffdcfe50d4eba238620b6f6f5e8f107bad9f399e4ff7f4f4372002
+jamugurihat-travel,Jamugurihat travel routes,travel,local,126,unknown,,unverified,data/raw/travel/jamugurihat-travel.kmz,3f181b6f7f110ecb85b1d214fefe8522839d581712cbb0de475c4cf12bdeeb77
+uronto-apeswari,Uronto Apeswari — local places and route,travel,unverified,5,unknown,,unverified,data/raw/travel/uronto-apeswari.kmz,69ee117e4e092683ac0781f7e87ef4dc9183b4b861f14438284e356716176ed0
