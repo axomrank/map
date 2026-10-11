@@ -5,7 +5,7 @@ Explore Assam districts and villages, browse thematic maps, and download reusabl
 ## Explore
 
 - [District and village portal](assam/) — existing search and boundary viewer.
-- [Map collection browser](collection/) — theme filtering, map previews, and downloads.
+- [Map collection browser](collection/) — theme filtering, automatically loaded map previews, and downloads.
 - [Naduar village map](naduar/) — existing local viewer.
 - [Download catalog](catalog/README.md) — every supplied map and its available formats.
 

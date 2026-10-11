@@ -24,7 +24,7 @@ function info() {
   for (const [format, path] of Object.entries(item.formats)) {
     const a = document.createElement('a'); a.textContent = format.toUpperCase(); a.href = '../' + path; a.download = ''; downloads.append(a);
   }
-  status.textContent = 'Select Show on map to preview this dataset.';
+  showMap();
 }
 function options() {
   dataset.replaceChildren();
@@ -35,7 +35,7 @@ function options() {
 }
 theme.addEventListener('change', options);
 dataset.addEventListener('change', info);
-load.addEventListener('click', async () => {
+async function showMap() {
   const item = selected(), ticket = ++request;
   if (!item) return;
   load.disabled = true; status.textContent = 'Loading map…';
@@ -45,8 +45,8 @@ load.addEventListener('click', async () => {
     const geojson = await response.json();
     if (ticket !== request) return;
     const next = L.geoJSON(geojson, {
-      style: {color:'#176b4b', weight:2, fillOpacity:0.12},
-      pointToLayer: (feature, latlng) => L.circleMarker(latlng, {radius:5, color:'#176b4b', fillOpacity:0.8}),
+      style: {color:'#125bcb', weight:3, fillColor:'#3c8cf0', fillOpacity:0.22},
+      pointToLayer: (feature, latlng) => L.circleMarker(latlng, {radius:6, color:'#143d79', weight:2, fillColor:'#f39822', fillOpacity:0.95}),
       onEachFeature: (feature, child) => {
         const popup = document.createElement('div');
         const title = document.createElement('strong'); title.textContent = feature.properties.name || feature.id;
@@ -56,12 +56,14 @@ load.addEventListener('click', async () => {
     });
     if (layer) map.removeLayer(layer);
     layer = next.addTo(map);
+    map.invalidateSize();
     if (layer.getBounds().isValid()) map.fitBounds(layer.getBounds(), {padding:[20,20], maxZoom:14});
     status.textContent = `Showing ${item.title}: ${geojson.features.length} features.`;
   } catch (error) {
     if (ticket === request) status.textContent = `Could not load map: ${error.message}. Serve the repository with an HTTP server.`;
   } finally { if (ticket === request) load.disabled = false; }
-});
+}
+load.addEventListener('click', showMap);
 (async () => {
   try {
     const response = await fetch('../catalog/datasets.json');

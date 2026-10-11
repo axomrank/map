@@ -25,7 +25,7 @@ Other formats need explicit import adapters: preserve the original raster/PDF/Ge
 
 `assam/index.html` handles the existing district/village application. Its village data is partitioned under `assam/villages-data/`; its custom JSON schema is separate from the standard GeoJSON collection.
 
-`collection/index.html` and `collection/collection.js` load the generated catalog and fetch only the selected GeoJSON. Selection changes discard stale requests. Popups use text nodes for descriptions. Avoid eagerly loading nationwide polygons on the village portal.
+`collection/index.html` and `collection/collection.js` load the generated catalog and automatically fetch the selected GeoJSON on page load and after a dataset or theme selection. Selection changes discard stale requests. Popups use text nodes for descriptions. Avoid eagerly loading nationwide polygons on the village portal.
 
 Keep large full-resolution layers downloadable and generate separately documented simplified or tiled previews when needed. Record tolerance and tool version; simplification must not overwrite the source.
 

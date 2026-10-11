@@ -10,15 +10,15 @@
 </style>
 </head>
 <body>
-<header><a href="../assam/">District &amp; village portal</a><h1>Assam map collection</h1><p>Explore supplied maps and download GIS exports. Includes regional and India reference layers.</p></header>
+<header><a href="../assam/">District &amp; village portal</a><h1>Assam map collection</h1><p>Explore supplied maps and download GIS exports. Select a dataset to display it automatically. Includes regional and India reference layers.</p></header>
 <main><aside>
 <label for="theme">Theme</label><select id="theme"><option value="">All themes</option></select>
 <label for="dataset">Dataset</label><select id="dataset"></select>
 <div id="details"></div><div id="downloads"></div>
-<button id="load" disabled>Show on map</button><p id="status" class="status" role="status" aria-live="polite">Loading catalog…</p>
+<button id="load" disabled>Reload map</button><p id="status" class="status" role="status" aria-live="polite">Loading catalog…</p>
 <p><a href="../catalog/README.md">Full catalog</a> · <a href="../docs/COLLECTION_PLAN.md">Collection plan</a></p>
 <p>Source dates, accuracy, and reuse rights are unverified. Boundaries may be historical. Overlapping collection files can contain the same features.</p>
 </aside><div id="map" aria-label="Map preview"></div></main>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="collection.js"></script>
+<script src="collection.js?v=2"></script>
 </body></html>
